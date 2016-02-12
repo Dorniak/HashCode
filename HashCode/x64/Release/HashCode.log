@@ -1,0 +1,6 @@
+﻿  HashCode.cpp
+d:\documentos\github\hashcode\hashcode\HashCode.h(4): error C2871: 'System': a namespace with this name does not exist
+HashCode.cpp(10): error C2653: 'Console': is not a class or namespace name
+HashCode.cpp(10): error C3861: 'WriteLine': identifier not found
+  Main.cpp
+d:\documentos\github\hashcode\hashcode\HashCode.h(4): error C2871: 'System': a namespace with this name does not exist
